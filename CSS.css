@@ -1,0 +1,56 @@
+/* la misen form du formulaire*/
+
+.lab{
+    color:red
+} 
+
+
+/* label{
+     width: 20%;
+     display: inline-block;
+     text-align: left;
+     font-size: 30px;
+     color:#5612cb;
+ } */
+ /* .fi{
+    border: 1px solid #000;
+    padding-top: 10px;
+
+ } */
+ .form{
+     /* border-radius: 8px;
+     border: 2px solid black; */
+     width: 80%;
+     text-align: center;
+     padding-top: 50px;
+
+ }
+ .le{
+     font-size: 50px;
+     margin-bottom: 10px;
+     color: #5612cb;
+ }
+ input[type="text"],input[type="number"],input[type="email"]{
+ border-radius: 5px;
+ padding: 10px;
+ width: 50%;
+ background-color: #ffff;
+ margin: 10px;
+ }
+ input[type="submit"]{
+     width: 50%;
+     position: relative;
+     padding: 20px;
+     font-size: 18px;
+     border: 1px solid #16a085;
+     border-radius: 2px;
+     margin-top: 10px;
+     font-style: Arial;
+     color: #000;
+     background-color: rgb(248, 249, 251);
+ }
+ input[type="submit"]:hover{
+     background-color: rgb(18, 18, 235);
+     color: rgb(245, 247, 249);
+ }
+ 
